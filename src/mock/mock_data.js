@@ -12,6 +12,27 @@ export const mockData = {
           "url": "https://www.deepseek.com",
           "description": "深度求索(DeepSeek),成立于2023年,专注于研究世界领先的通用人工智能底层模型与技术,挑战人工智能前沿性难题。",
           "icon": "https://cdn.deepseek.com/logo.png?x-image-process=image%2Fresize%2Cw_828"
+        },
+        {
+          "id": "site-1775560273159",
+          "name": "豆包",
+          "url": "https://www.doubao.com",
+          "description": "豆包（Doubao）是字节跳动基于豆包大模型（原云雀）开发的AI助手。提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息。",
+          "icon": "https://www.faviconextractor.com/favicon/www.doubao.com"
+        },
+        {
+          "id": "site-1775560294274",
+          "name": "千问",
+          "url": "https://www.qianwen.com/",
+          "description": "千问是阿里巴巴于2025年11月13日在中国启动的个人AI助手应用，基于Qwen大模型开发，标志着阿里巴巴从B端企业服务向C端用户市场的战略转型。",
+          "icon": "https://www.faviconextractor.com/favicon/www.qianwen.com"
+        },
+        {
+          "id": "site-1775560370009",
+          "name": "智谱清言",
+          "url": "https://chatglm.cn",
+          "description": "智谱新一代旗舰基座,面向 Agentic Engineering,实现从代码到工程的范式跃迁,擅长复杂系统工程与长程 Agent 任务 立即体验 GLM-5V-Turbo 多模态 Coding 基座模型,原生融合视觉与文本能力。既擅长视觉编程,也能在复杂任务中规划...",
+          "icon": "data:image/png;base64,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"
         }
       ]
     },
