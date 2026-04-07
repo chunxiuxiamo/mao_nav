@@ -17,7 +17,7 @@ export const mockData = {
           "id": "site-1775560478881",
           "name": "豆包",
           "url": "https://www.doubao.com",
-          "description": "",
+          "description": "豆包（Doubao）是字节跳动基于豆包大模型（原云雀）开发的AI助手。提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息。",
           "icon": "https://www.faviconextractor.com/favicon/www.doubao.com"
         }
       ]
