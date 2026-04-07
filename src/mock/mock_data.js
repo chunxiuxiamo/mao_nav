@@ -12,6 +12,13 @@ export const mockData = {
           "url": "https://www.deepseek.com",
           "description": "深度求索(DeepSeek),成立于2023年,专注于研究世界领先的通用人工智能底层模型与技术,挑战人工智能前沿性难题。",
           "icon": "https://cdn.deepseek.com/logo.png?x-image-process=image%2Fresize%2Cw_828"
+        },
+        {
+          "id": "site-1775560478881",
+          "name": "豆包",
+          "url": "https://www.doubao.com",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.doubao.com"
         }
       ]
     },
