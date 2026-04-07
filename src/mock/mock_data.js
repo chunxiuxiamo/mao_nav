@@ -137,6 +137,28 @@ export const mockData = {
           "icon": "/sitelogo/tinypng.com.ico"
         }
       ]
+    },
+    {
+      "id": "category-1775562621500",
+      "icon": "🎵",
+      "name": "AI音乐生成官网",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1775562674021",
+          "name": "Mureka",
+          "url": "https://www.mureka.cn",
+          "description": "中国公司的专业 AI 音乐创作平台，不懂音乐的普通人也能创作出伟大的音乐作品，不论是带有人声的歌曲，还是纯音乐，都能一站式完成。更有开放平台提供 API 接入服务，让你的应用瞬间拥有 AI 音乐生成能力。",
+          "icon": "https://www.faviconextractor.com/favicon/www.mureka.cn"
+        },
+        {
+          "id": "site-1775562820025",
+          "name": "Suno",
+          "url": "https://suno.com",
+          "description": "‌Suno‌ 是一款基于人工智能的音乐生成平台，由美国初创公司 Suno 于 2019 年创立，总部位于马萨诸塞州剑桥市。其核心目标是让任何人无需专业乐理知识或制作技能，即可通过文字提示快速生成包含人声、旋律、编曲和混音的完整歌曲。",
+          "icon": "https://www.faviconextractor.com/favicon/suno.com"
+        }
+      ]
     }
   ],
   "title": "佛系AI导航",
