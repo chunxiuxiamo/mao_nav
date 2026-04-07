@@ -98,6 +98,13 @@ export const mockData = {
           "url": "https://www.liblib.art",
           "description": "LibLibAI‌（中文名“哩布哩布AI”）是成立于2023年3月的中国领先的多模态AI创作平台，专注于AI图像生成、视频生成及模型分享，致力于为创作者提供一体化的AI内容生产工具与社区生态。",
           "icon": "https://www.faviconextractor.com/favicon/www.liblib.art"
+        },
+        {
+          "id": "site-1775563937312",
+          "name": "LibLibTV",
+          "url": "https://www.liblib.tv",
+          "description": "LiblibAI对外正式发布AI视频创作平台LibTV，上线首日访问量突破10万。据介绍，该产品集成可灵3.0（Kling 3.0）等主流视频模型，并采用“人类创作者 + AI Agent”的双入口结构，支持从脚本、分镜到成片输出的完整创作流程。",
+          "icon": ""
         }
       ]
     },
