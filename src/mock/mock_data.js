@@ -80,10 +80,17 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1775562075330",
+      "icon": "🎨",
+      "name": "AI生图/视频官网",
+      "order": 2,
+      "sites": []
+    },
+    {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "json-formatter",
@@ -105,7 +112,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "notion",
