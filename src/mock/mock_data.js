@@ -102,10 +102,25 @@ export const mockData = {
       ]
     },
     {
+      "id": "office",
+      "name": "办公协作",
+      "icon": "💼",
+      "order": 3,
+      "sites": [
+        {
+          "id": "feishu",
+          "name": "飞书",
+          "url": "https://www.feishu.cn",
+          "description": "企业协作平台",
+          "icon": "/sitelogo/www.feishu.cn.ico"
+        }
+      ]
+    },
+    {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "json-formatter",
@@ -120,42 +135,6 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "office",
-      "name": "办公协作",
-      "icon": "💼",
-      "order": 4,
-      "sites": [
-        {
-          "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
-          "icon": "/sitelogo/www.notion.so.ico"
-        },
-        {
-          "id": "slack",
-          "name": "Slack",
-          "url": "https://slack.com",
-          "description": "团队协作工具",
-          "icon": "/sitelogo/slack.com.ico"
-        },
-        {
-          "id": "trello",
-          "name": "Trello",
-          "url": "https://trello.com",
-          "description": "项目管理工具",
-          "icon": "/sitelogo/trello.com.ico"
-        },
-        {
-          "id": "feishu",
-          "name": "飞书",
-          "url": "https://www.feishu.cn",
-          "description": "企业协作平台",
-          "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
     }
