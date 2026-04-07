@@ -62,6 +62,13 @@ export const mockData = {
           "url": "https://claude.ai",
           "description": "Claude是由Anthropic公司开发的人工智能聊天机器人,是世界上最大的语言模型之一。尤其擅长软件开发，代码编程，在该领域目前是大家首选，但是价格昂贵。它性格开朗、个性十足,并且有些唠叨,每次回答都尽可能把来龙去脉和相关的信息一一列出。",
           "icon": "https://www.faviconextractor.com/favicon/claude.ai"
+        },
+        {
+          "id": "site-1775561906487",
+          "name": "Gemini",
+          "url": "https://gemini.google.com",
+          "description": "Gemini是Google DeepMind开发的先进AI模型系列，其设计哲学是从一开始就原生支持多模态，能够无缝理解和操作文本、图像、音频、视频和代码等多种信息。它的名字“Gemini”意为“双子座”，象征着Google Brain与DeepMind两大顶尖AI团队的合并，也寓意着模型的多模态“双生”特性。",
+          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
         }
       ]
     },
