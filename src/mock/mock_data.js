@@ -84,7 +84,15 @@ export const mockData = {
       "icon": "🎨",
       "name": "AI生图/视频官网",
       "order": 2,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1775562176921",
+          "name": "即梦",
+          "url": "https://jimeng.jianying.com",
+          "description": "即梦AI是一个生成式人工智能创作平台，支持通过自然语言及图片输入，生成高质量的图像及视频。提供智能画布、故事创作模式、以及首尾帧、对口型、运镜控制、速度控制等AI编辑能力，并有海量影像灵感及兴趣社区，一站式提供用户创意灵感、流畅工作流、社区交互等资源，为用户的创作提效。 ",
+          "icon": "https://www.faviconextractor.com/favicon/jimeng.jianying.com"
+        }
+      ]
     },
     {
       "id": "tools",
