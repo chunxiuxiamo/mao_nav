@@ -102,47 +102,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "office",
-      "name": "办公协作",
-      "icon": "💼",
-      "order": 3,
-      "sites": [
-        {
-          "id": "feishu",
-          "name": "飞书",
-          "url": "https://www.feishu.cn",
-          "description": "企业协作平台",
-          "icon": "/sitelogo/www.feishu.cn.ico"
-        }
-      ]
-    },
-    {
-      "id": "tools",
-      "name": "在线工具",
-      "icon": "⚙️",
-      "order": 4,
-      "sites": [
-        {
-          "id": "json-formatter",
-          "name": "JSON Formatter",
-          "url": "https://jsonformatter.org",
-          "description": "JSON格式化工具",
-          "icon": "/sitelogo/jsonformatter.org.ico"
-        },
-        {
-          "id": "tinypng",
-          "name": "TinyPNG",
-          "url": "https://tinypng.com",
-          "description": "图片压缩工具",
-          "icon": "/sitelogo/tinypng.com.ico"
-        }
-      ]
-    },
-    {
       "id": "category-1775562621500",
       "icon": "🎵",
       "name": "AI音乐生成官网",
-      "order": 0,
+      "order": 3,
       "sites": [
         {
           "id": "site-1775562674021",
@@ -157,6 +120,43 @@ export const mockData = {
           "url": "https://suno.com",
           "description": "‌Suno‌ 是一款基于人工智能的音乐生成平台，由美国初创公司 Suno 于 2019 年创立，总部位于马萨诸塞州剑桥市。其核心目标是让任何人无需专业乐理知识或制作技能，即可通过文字提示快速生成包含人声、旋律、编曲和混音的完整歌曲。",
           "icon": "https://www.faviconextractor.com/favicon/suno.com"
+        }
+      ]
+    },
+    {
+      "id": "office",
+      "name": "办公协作",
+      "icon": "💼",
+      "order": 4,
+      "sites": [
+        {
+          "id": "feishu",
+          "name": "飞书",
+          "url": "https://www.feishu.cn",
+          "description": "企业协作平台",
+          "icon": "/sitelogo/www.feishu.cn.ico"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "在线工具",
+      "icon": "⚙️",
+      "order": 5,
+      "sites": [
+        {
+          "id": "json-formatter",
+          "name": "JSON Formatter",
+          "url": "https://jsonformatter.org",
+          "description": "JSON格式化工具",
+          "icon": "/sitelogo/jsonformatter.org.ico"
+        },
+        {
+          "id": "tinypng",
+          "name": "TinyPNG",
+          "url": "https://tinypng.com",
+          "description": "图片压缩工具",
+          "icon": "/sitelogo/tinypng.com.ico"
         }
       ]
     }
