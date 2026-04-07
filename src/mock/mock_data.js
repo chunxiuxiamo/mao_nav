@@ -3,7 +3,7 @@ export const mockData = {
     {
       "id": "category-1775559498950",
       "icon": "📱",
-      "name": "国内AI网站",
+      "name": "国内AI官网",
       "order": 0,
       "sites": [
         {
@@ -44,10 +44,17 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1775560895668",
+      "icon": "📱",
+      "name": "国外AI官网",
+      "order": 1,
+      "sites": []
+    },
+    {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 1,
+      "order": 2,
       "sites": [
         {
           "id": "json-formatter",
@@ -55,20 +62,6 @@ export const mockData = {
           "url": "https://jsonformatter.org",
           "description": "JSON格式化工具",
           "icon": "/sitelogo/jsonformatter.org.ico"
-        },
-        {
-          "id": "regex101",
-          "name": "Regex101",
-          "url": "https://regex101.com",
-          "description": "正则表达式测试",
-          "icon": "/sitelogo/regex101.com.ico"
-        },
-        {
-          "id": "caniuse",
-          "name": "Can I Use",
-          "url": "https://caniuse.com",
-          "description": "浏览器兼容性查询",
-          "icon": "/sitelogo/caniuse.com.ico"
         },
         {
           "id": "tinypng",
@@ -83,7 +76,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "notion",
