@@ -48,7 +48,15 @@ export const mockData = {
       "icon": "📱",
       "name": "国外AI官网",
       "order": 1,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1775561356697",
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com",
+          "description": "OpenAI公司旗下系列模型，全球顶尖系列模型之一，常占据全球模型排行榜前列位置，擅长通用智能、长上下文理解、智能体工具调用和视觉方面都很强大，在端到端执行复杂的现实世界任务方面很强。",
+          "icon": "https://www.faviconextractor.com/favicon/chatgpt.com"
+        }
+      ]
     },
     {
       "id": "tools",
