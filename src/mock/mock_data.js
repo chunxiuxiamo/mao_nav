@@ -69,6 +69,13 @@ export const mockData = {
           "url": "https://gemini.google.com",
           "description": "Gemini是Google DeepMind开发的先进AI模型系列，其设计哲学是从一开始就原生支持多模态，能够无缝理解和操作文本、图像、音频、视频和代码等多种信息。它的名字“Gemini”意为“双子座”，象征着Google Brain与DeepMind两大顶尖AI团队的合并，也寓意着模型的多模态“双生”特性。",
           "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
+        },
+        {
+          "id": "site-1775561999481",
+          "name": "Grok",
+          "url": "https://grok.com",
+          "description": "‌Grok‌ 是由埃隆·马斯克旗下人工智能公司 ‌xAI‌ 开发的大型语言模型系列，旨在提供兼具深度理解、实时信息处理与个性化交互的AI体验。Grok 凭借 ‌实时性、情感智能与叛逆风格‌，在 AI 助手中独树一帜。",
+          "icon": "https://www.faviconextractor.com/favicon/grok.com"
         }
       ]
     },
