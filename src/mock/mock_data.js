@@ -142,6 +142,13 @@ export const mockData = {
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
+        },
+        {
+          "id": "site-1775912383834",
+          "name": "ChatExcel",
+          "url": "https://www.chatexcel.com",
+          "description": "ChatExcel快速处理Excel,一句话即可完成多表合并、多sheet拆分、数据清洗、数据查找等,一句话即可完成求和、求差、求平均值、求极值等,支持同时完成多条件数据运算,将数据处理速度提升90%。 ",
+          "icon": "https://www.faviconextractor.com/favicon/www.chatexcel.com"
         }
       ]
     },
@@ -169,6 +176,5 @@ export const mockData = {
     }
   ],
   "title": "萤火AI导航",
-  "search": "bing",
-  "_fileSha": "b05d9d3866db9ca11c6a8fa1bbcb9d7b154d542f"
+  "search": "bing"
 }
