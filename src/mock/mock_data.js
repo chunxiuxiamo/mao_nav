@@ -149,6 +149,13 @@ export const mockData = {
           "url": "https://www.chatexcel.com",
           "description": "ChatExcel快速处理Excel,一句话即可完成多表合并、多sheet拆分、数据清洗、数据查找等,一句话即可完成求和、求差、求平均值、求极值等,支持同时完成多条件数据运算,将数据处理速度提升90%。 ",
           "icon": "https://www.faviconextractor.com/favicon/www.chatexcel.com"
+        },
+        {
+          "id": "site-1775912494727",
+          "name": "Gamma(PPT-国外网站)",
+          "url": "https://gamma.app",
+          "description": "Gamma是一款基于人工智能技术的多功能办公工具，由Jon Noronha等人于2020年创立，专注于通过AI生成演示文稿和网页内容。该工具集成GPT等语言模型，支持20多种语言交互，能够根据主题词或大纲自动生成包含文字、图表及设计元素的PPT框架，并提供可视化编辑模块和模板库供用户调整。",
+          "icon": "https://www.faviconextractor.com/favicon/gamma.app"
         }
       ]
     },
