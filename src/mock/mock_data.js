@@ -119,6 +119,13 @@ export const mockData = {
           "url": "https://hailuoai.com",
           "description": "海螺AI是MiniMax官方AI视频生成工具，更是你的AI视频创作助手，只需简单的描述就能将脑海中的创意变成精彩视频。海螺AI基于自研多模态大模型提供文生视频、图生视频、主体参考功能，能够帮助您高效地制作优质内容，轻松获得吸睛的视频素材以及...",
           "icon": "https://www.faviconextractor.com/favicon/hailuoai.com"
+        },
+        {
+          "id": "site-1775919641479",
+          "name": "美图设计",
+          "url": "https://www.designkit.cn",
+          "description": "美图设计室是电商人必备的AI设计工具.为用户提供全面的AI生成式作图工具.包含智能抠图,AI LOGO,AI商品图,AI消除等,输入一句话或上传一张图AI即可完成设计.",
+          "icon": "https://www.faviconextractor.com/favicon/www.designkit.cn"
         }
       ]
     },
