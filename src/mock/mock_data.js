@@ -176,6 +176,13 @@ export const mockData = {
           "url": "https://www.dingtalk.com",
           "description": "钉钉(Ding Talk)是阿里巴巴集团打造的企业级智能移动办公平台,引领未来新一代工作方式,将陪伴每一个企业成长,是数字经济时代的企业组织协同办公和应用开发平台,是新生产力工具。",
           "icon": "https://www.faviconextractor.com/favicon/www.dingtalk.com"
+        },
+        {
+          "id": "site-1775922434591",
+          "name": "扣子",
+          "url": "https://www.coze.cn",
+          "description": "\n扣子空间是你和 AI Agent 协同办公的最佳场所。在扣子空间里，精通各项技能的「通用实习生」，各行各业的「领域专家」，任你选择，大幅提升工作效率。",
+          "icon": "https://www.faviconextractor.com/favicon/www.coze.cn"
         }
       ]
     },
