@@ -112,6 +112,13 @@ export const mockData = {
           "url": "https://www.liblib.tv",
           "description": "LiblibAI对外正式发布AI视频创作平台LibTV，上线首日访问量突破10万。据介绍，该产品集成可灵3.0（Kling 3.0）等主流视频模型，并采用“人类创作者 + AI Agent”的双入口结构，支持从脚本、分镜到成片输出的完整创作流程。",
           "icon": ""
+        },
+        {
+          "id": "site-1775915914228",
+          "name": "海螺",
+          "url": "https://hailuoai.com",
+          "description": "海螺AI是MiniMax官方AI视频生成工具，更是你的AI视频创作助手，只需简单的描述就能将脑海中的创意变成精彩视频。海螺AI基于自研多模态大模型提供文生视频、图生视频、主体参考功能，能够帮助您高效地制作优质内容，轻松获得吸睛的视频素材以及...",
+          "icon": "https://www.faviconextractor.com/favicon/hailuoai.com"
         }
       ]
     },
