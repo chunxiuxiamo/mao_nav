@@ -227,6 +227,13 @@ export const mockData = {
           "url": "https://tinypng.com",
           "description": "图片压缩工具",
           "icon": "/sitelogo/tinypng.com.ico"
+        },
+        {
+          "id": "site-1775919797251",
+          "name": "图片背景消除",
+          "url": "https://www.remove.bg/zh",
+          "description": "图片背景消除工具",
+          "icon": "https://www.faviconextractor.com/favicon/www.remove.bg"
         }
       ]
     }
