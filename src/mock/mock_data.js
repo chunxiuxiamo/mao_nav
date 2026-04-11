@@ -44,46 +44,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1775560895668",
-      "icon": "📱",
-      "name": "国外AI官网",
-      "order": 1,
-      "sites": [
-        {
-          "id": "site-1775561356697",
-          "name": "ChatGPT",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI公司旗下系列模型，全球顶尖系列模型之一，常占据全球模型排行榜前列位置，擅长通用智能、长上下文理解、智能体工具调用和视觉方面都很强大，在端到端执行复杂的现实世界任务方面很强。",
-          "icon": "https://www.faviconextractor.com/favicon/chatgpt.com"
-        },
-        {
-          "id": "site-1775561629650",
-          "name": "Claude",
-          "url": "https://claude.ai",
-          "description": "Claude是由Anthropic公司开发的人工智能聊天机器人,是世界上最大的语言模型之一。尤其擅长软件开发，代码编程，在该领域目前是大家首选，但是价格昂贵。它性格开朗、个性十足,并且有些唠叨,每次回答都尽可能把来龙去脉和相关的信息一一列出。",
-          "icon": "https://www.faviconextractor.com/favicon/claude.ai"
-        },
-        {
-          "id": "site-1775561906487",
-          "name": "Gemini",
-          "url": "https://gemini.google.com",
-          "description": "Gemini是Google DeepMind开发的先进AI模型系列，其设计哲学是从一开始就原生支持多模态，能够无缝理解和操作文本、图像、音频、视频和代码等多种信息。它的名字“Gemini”意为“双子座”，象征着Google Brain与DeepMind两大顶尖AI团队的合并，也寓意着模型的多模态“双生”特性。",
-          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
-        },
-        {
-          "id": "site-1775561999481",
-          "name": "Grok",
-          "url": "https://grok.com",
-          "description": "‌Grok‌ 是由埃隆·马斯克旗下人工智能公司 ‌xAI‌ 开发的大型语言模型系列，旨在提供兼具深度理解、实时信息处理与个性化交互的AI体验。Grok 凭借 ‌实时性、情感智能与叛逆风格‌，在 AI 助手中独树一帜。",
-          "icon": "https://www.faviconextractor.com/favicon/grok.com"
-        }
-      ]
-    },
-    {
       "id": "category-1775562075330",
       "icon": "🎨",
       "name": "AI生图/视频官网",
-      "order": 2,
+      "order": 1,
       "sites": [
         {
           "id": "site-1775562176921",
@@ -133,7 +97,7 @@ export const mockData = {
       "id": "category-1775562621500",
       "icon": "🎵",
       "name": "AI音乐生成官网",
-      "order": 3,
+      "order": 2,
       "sites": [
         {
           "id": "site-1775562820025",
@@ -169,7 +133,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 4,
+      "order": 3,
       "sites": [
         {
           "id": "feishu",
@@ -205,6 +169,42 @@ export const mockData = {
           "url": "https://www.dingtalk.com",
           "description": "钉钉(Ding Talk)是阿里巴巴集团打造的企业级智能移动办公平台,引领未来新一代工作方式,将陪伴每一个企业成长,是数字经济时代的企业组织协同办公和应用开发平台,是新生产力工具。",
           "icon": "https://www.faviconextractor.com/favicon/www.dingtalk.com"
+        }
+      ]
+    },
+    {
+      "id": "category-1775560895668",
+      "icon": "📱",
+      "name": "国外AI官网",
+      "order": 4,
+      "sites": [
+        {
+          "id": "site-1775561356697",
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com",
+          "description": "OpenAI公司旗下系列模型，全球顶尖系列模型之一，常占据全球模型排行榜前列位置，擅长通用智能、长上下文理解、智能体工具调用和视觉方面都很强大，在端到端执行复杂的现实世界任务方面很强。",
+          "icon": "https://www.faviconextractor.com/favicon/chatgpt.com"
+        },
+        {
+          "id": "site-1775561629650",
+          "name": "Claude",
+          "url": "https://claude.ai",
+          "description": "Claude是由Anthropic公司开发的人工智能聊天机器人,是世界上最大的语言模型之一。尤其擅长软件开发，代码编程，在该领域目前是大家首选，但是价格昂贵。它性格开朗、个性十足,并且有些唠叨,每次回答都尽可能把来龙去脉和相关的信息一一列出。",
+          "icon": "https://www.faviconextractor.com/favicon/claude.ai"
+        },
+        {
+          "id": "site-1775561906487",
+          "name": "Gemini",
+          "url": "https://gemini.google.com",
+          "description": "Gemini是Google DeepMind开发的先进AI模型系列，其设计哲学是从一开始就原生支持多模态，能够无缝理解和操作文本、图像、音频、视频和代码等多种信息。它的名字“Gemini”意为“双子座”，象征着Google Brain与DeepMind两大顶尖AI团队的合并，也寓意着模型的多模态“双生”特性。",
+          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
+        },
+        {
+          "id": "site-1775561999481",
+          "name": "Grok",
+          "url": "https://grok.com",
+          "description": "‌Grok‌ 是由埃隆·马斯克旗下人工智能公司 ‌xAI‌ 开发的大型语言模型系列，旨在提供兼具深度理解、实时信息处理与个性化交互的AI体验。Grok 凭借 ‌实时性、情感智能与叛逆风格‌，在 AI 助手中独树一帜。",
+          "icon": "https://www.faviconextractor.com/favicon/grok.com"
         }
       ]
     },
