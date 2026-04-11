@@ -157,6 +157,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.chatexcel.com"
         },
         {
+          "id": "site-1775921892467",
+          "name": "通义听悟",
+          "url": "https://tingwu.aliyun.com",
+          "description": "阿里云通义听悟是聚焦音视频内容的工作学习AI助手,依托大模型,帮助用户记录、整理和分析音视频内容,体验用大模型做音视频笔记、整理会议记录。",
+          "icon": "https://www.faviconextractor.com/favicon/tingwu.aliyun.com"
+        },
+        {
           "id": "site-1775912494727",
           "name": "Gamma(PPT-国外网站)",
           "url": "https://gamma.app",
