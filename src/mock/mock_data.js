@@ -164,6 +164,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/tingwu.aliyun.com"
         },
         {
+          "id": "site-1775922569355",
+          "name": "Ai PPT",
+          "url": "https://www.aippt.cn",
+          "description": "\n职场新人 PPT 技能跟不上,偶然发现了 AiPPT,自动生成文案和 PPT,学习起来非常简单,省去了很多弯路。 小李职场新人 使用AiPPT,工作效率明显提高,不仅能更专注营销策划,而且生成的 PPT 也非常专业。",
+          "icon": "https://www.faviconextractor.com/favicon/www.aippt.cn"
+        },
+        {
           "id": "site-1775912494727",
           "name": "Gamma(PPT-国外网站)",
           "url": "https://gamma.app",
