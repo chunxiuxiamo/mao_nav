@@ -170,6 +170,13 @@ export const mockData = {
           "url": "https://gamma.app",
           "description": "Gamma是一款基于人工智能技术的多功能办公工具，由Jon Noronha等人于2020年创立，专注于通过AI生成演示文稿和网页内容。该工具集成GPT等语言模型，支持20多种语言交互，能够根据主题词或大纲自动生成包含文字、图表及设计元素的PPT框架，并提供可视化编辑模块和模板库供用户调整。",
           "icon": "https://www.faviconextractor.com/favicon/gamma.app"
+        },
+        {
+          "id": "site-1775915724866",
+          "name": "钉钉官网",
+          "url": "https://www.dingtalk.com",
+          "description": "钉钉(Ding Talk)是阿里巴巴集团打造的企业级智能移动办公平台,引领未来新一代工作方式,将陪伴每一个企业成长,是数字经济时代的企业组织协同办公和应用开发平台,是新生产力工具。",
+          "icon": "https://www.faviconextractor.com/favicon/www.dingtalk.com"
         }
       ]
     },
