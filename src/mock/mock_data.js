@@ -129,6 +129,20 @@ export const mockData = {
       "order": 3,
       "sites": [
         {
+          "id": "site-1775562820025",
+          "name": "Suno",
+          "url": "https://suno.com",
+          "description": "‌Suno‌ 是一款基于人工智能的音乐生成平台，由美国初创公司 Suno 于 2019 年创立，总部位于马萨诸塞州剑桥市。其核心目标是让任何人无需专业乐理知识或制作技能，即可通过文字提示快速生成包含人声、旋律、编曲和混音的完整歌曲。",
+          "icon": "https://www.faviconextractor.com/favicon/suno.com"
+        },
+        {
+          "id": "site-1775919081764",
+          "name": "抖音音乐开放平台",
+          "url": "https://music.douyin.com",
+          "description": "抖音音乐全新品牌“抖音音乐开放平台”打造一站式音乐人服务平台,在音乐的浩瀚星河,让有温度的音乐创作人入驻,为优秀音乐作品创造价值",
+          "icon": "https://www.faviconextractor.com/favicon/music.douyin.com"
+        },
+        {
           "id": "site-1775562674021",
           "name": "Mureka",
           "url": "https://www.mureka.cn",
@@ -136,11 +150,11 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.mureka.cn"
         },
         {
-          "id": "site-1775562820025",
-          "name": "Suno",
-          "url": "https://suno.com",
-          "description": "‌Suno‌ 是一款基于人工智能的音乐生成平台，由美国初创公司 Suno 于 2019 年创立，总部位于马萨诸塞州剑桥市。其核心目标是让任何人无需专业乐理知识或制作技能，即可通过文字提示快速生成包含人声、旋律、编曲和混音的完整歌曲。",
-          "icon": "https://www.faviconextractor.com/favicon/suno.com"
+          "id": "site-1775919447278",
+          "name": "Minimaxi 音频",
+          "url": "https://www.minimaxi.com/audio",
+          "description": "MiniMaxi公司的音频网站，具有文字转语音的声音合成能力，例如：新闻播报、讲书等等，可生成AI音乐。",
+          "icon": "https://www.faviconextractor.com/favicon/www.minimaxi.com"
         }
       ]
     },
