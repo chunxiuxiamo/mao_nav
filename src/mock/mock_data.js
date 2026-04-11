@@ -100,6 +100,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.liblib.art"
         },
         {
+          "id": "site-1775915002829",
+          "name": "可灵",
+          "url": "https://klingai.com/app",
+          "description": "可灵（KLING）是快手AI团队自主研发的视频生成大模型，该模型基于快手视频技术积累，通过文生视频、图生视频等功能实现静态图像动态化，并提供视频续写、多模态编辑等创作工具。",
+          "icon": ""
+        },
+        {
           "id": "site-1775563937312",
           "name": "LibLibTV",
           "url": "https://www.liblib.tv",
