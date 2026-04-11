@@ -151,6 +151,13 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         },
         {
+          "id": "site-1775915511944",
+          "name": "腾讯文档",
+          "url": "https://docs.qq.com",
+          "description": "腾讯文档是一款可多人协作的在线文档,可同时编辑Word、Excel和PPT文档,云端实时保存。可针对QQ、微信好友设置文档访问、编辑权限,支持多种版本Word、Excel和PPT文档模板。",
+          "icon": ""
+        },
+        {
           "id": "site-1775912383834",
           "name": "ChatExcel",
           "url": "https://www.chatexcel.com",
