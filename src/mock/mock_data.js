@@ -241,6 +241,13 @@ export const mockData = {
           "url": "https://www.remove.bg/zh",
           "description": "图片背景消除工具",
           "icon": "https://www.faviconextractor.com/favicon/www.remove.bg"
+        },
+        {
+          "id": "site-1775921964527",
+          "name": "以蓝图片放大",
+          "url": "https://yilancn.top/upimg",
+          "description": "图片放大工具",
+          "icon": "https://www.faviconextractor.com/favicon/yilancn.top"
         }
       ]
     }
