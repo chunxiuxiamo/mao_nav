@@ -57,6 +57,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/jimeng.jianying.com"
         },
         {
+          "id": "site-1776486663069",
+          "name": "椒图AI",
+          "url": "https://www.jiaotuai.cn",
+          "description": "免费在线AI修图工具,中文指令一键修图。支持电商设计、虚拟试衣、照片修复、背景处理、抠图扩图、无痕改字、高清放大。搭载智能视觉修图模型,专为中文用户深度优化,零基础轻松制作专业级图片。",
+          "icon": "https://www.jiaotuai.cn/assets/logo-img-BwVjJjxJ.webp"
+        },
+        {
           "id": "site-1775562326298",
           "name": "LibLibAI",
           "url": "https://www.liblib.art",
