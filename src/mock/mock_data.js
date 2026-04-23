@@ -185,6 +185,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/gamma.app"
         },
         {
+          "id": "site-1776949124763",
+          "name": "文多多",
+          "url": "https://docmee.cn",
+          "description": "文多多是一个利用人工智能技术帮助用户快速生成PPT演示文稿的在线平台。它通过AI技术,能够根据用户输入的主题和要求,一键生成高质量的演示文稿内容。产品背景是上海元符号智能科技有限公司开发,旨在提高用户在制作PPT",
+          "icon": "https://oss.docmee.cn/static/website/logo.png"
+        },
+        {
           "id": "site-1775915724866",
           "name": "钉钉官网",
           "url": "https://www.dingtalk.com",
