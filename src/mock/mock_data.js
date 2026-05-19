@@ -244,6 +244,21 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1779205111348",
+      "icon": "💼",
+      "name": "免费在线去水印工具",
+      "order": 5,
+      "sites": [
+        {
+          "id": "site-1779205191671",
+          "name": "removewatermark",
+          "url": "https://www.removewatermark.org",
+          "description": "使用人工智能技术去除照片、屏幕截图和素材图片上的水印。我们免费的在线水印去除工具可自动检测文本、擦除徽标和日期戳，并支持批量处理——无需注册，无需安装软件，可在任何设备上使用。",
+          "icon": "https://www.faviconextractor.com/favicon/www.removewatermark.org"
+        }
+      ]
+    },
+    {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
@@ -285,13 +300,6 @@ export const mockData = {
           "icon": "/sitelogo/jsonformatter.org.ico"
         }
       ]
-    },
-    {
-      "id": "category-1779205111348",
-      "icon": "💼",
-      "name": "免费在线去水印工具",
-      "order": 5,
-      "sites": []
     }
   ],
   "title": "萤火AI导航",
