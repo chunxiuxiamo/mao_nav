@@ -255,6 +255,41 @@ export const mockData = {
           "url": "https://www.removewatermark.org",
           "description": "使用人工智能技术去除照片、屏幕截图和素材图片上的水印。我们免费的在线水印去除工具可自动检测文本、擦除徽标和日期戳，并支持批量处理——无需注册，无需安装软件，可在任何设备上使用。",
           "icon": "https://www.faviconextractor.com/favicon/www.removewatermark.org"
+        },
+        {
+          "id": "site-1779205249633",
+          "name": "watermarkremover",
+          "url": "https://www.watermarkremover.io/zh",
+          "description": "WatermarkRemover.io 是一款 AI 驱动工具，可瞬间清除水印。.",
+          "icon": "https://www.faviconextractor.com/favicon/www.watermarkremover.io"
+        },
+        {
+          "id": "site-1779205389350",
+          "name": "Aiseesoft",
+          "url": "https://zh-cn.aiseesoft.com/watermark-remover-online/",
+          "description": "使用 AI 水印去除器可在几秒钟内免费去除任何水印。",
+          "icon": "https://www.faviconextractor.com/favicon/zh-cn.aiseesoft.com"
+        },
+        {
+          "id": "site-1779205473677",
+          "name": "dewatermark",
+          "url": "https://dewatermark.ai/zh-CN",
+          "description": "免费移除图像中最烦人的水印",
+          "icon": "https://www.faviconextractor.com/favicon/dewatermark.ai"
+        },
+        {
+          "id": "site-1779205529069",
+          "name": "aiease",
+          "url": "https://www.aiease.ai/tw/remove-image-watermark/",
+          "description": "即時以驚人精準度刪除圖片浮水印。AI Ease的線上去除浮水印能快速消除干擾的標誌與文字，還原清晰乾淨的照片。",
+          "icon": "https://www.faviconextractor.com/favicon/www.aiease.ai"
+        },
+        {
+          "id": "site-1779205798193",
+          "name": "unwatermark",
+          "url": "https://unwatermark.ai/zh/",
+          "description": "使用先进的AI技术瞬间去除图片中的水印、Logo、文字和不需要的对象。免费、快速、易用。",
+          "icon": "https://www.faviconextractor.com/favicon/unwatermark.ai"
         }
       ]
     },
