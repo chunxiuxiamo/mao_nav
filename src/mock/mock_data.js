@@ -247,7 +247,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "site-1776489813208",
@@ -285,9 +285,15 @@ export const mockData = {
           "icon": "/sitelogo/jsonformatter.org.ico"
         }
       ]
+    },
+    {
+      "id": "category-1779205111348",
+      "icon": "💼",
+      "name": "免费在线去水印工具",
+      "order": 5,
+      "sites": []
     }
   ],
   "title": "萤火AI导航",
-  "search": "bing",
-  "_fileSha": "104811fb1bf603f32bdb82ce0402d9978c040855"
+  "search": "bing"
 }
